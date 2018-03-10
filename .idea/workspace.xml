@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc38999d-b9ad-4437-a979-3a187a0733f8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/managers/apiManager.js" afterPath="$PROJECT_DIR$/src/managers/apiManager.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="53" lean-forward="false" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
+            <state relative-caret-position="517">
+              <caret line="50" column="96" lean-forward="false" selection-start-line="50" selection-start-column="96" selection-end-line="50" selection-end-column="96" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
                 <element signature="e#125#195#0" expanded="true" />
@@ -39,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="apiManager.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="apiManager.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/managers/apiManager.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="91" lean-forward="false" selection-start-line="2" selection-start-column="91" selection-end-line="2" selection-end-column="91" />
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -102,12 +102,12 @@
         <option value="$PROJECT_DIR$/src/reducers/financeReducer.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/containers/Datatable.js" />
-        <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/containers/ExtremeDatatable.js" />
         <option value="$PROJECT_DIR$/src/containers/StocksTable.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/src/managers/apiManager.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
       </list>
     </option>
   </component>
@@ -206,12 +206,12 @@
       <updated>1519253287730</updated>
       <workItem from="1519253292615" duration="38812000" />
       <workItem from="1520179695807" duration="9686000" />
-      <workItem from="1520356431718" duration="9052000" />
+      <workItem from="1520356431718" duration="10736000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57550000" />
+    <option name="totallyTimeSpent" value="59234000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="171" y="23" width="1266" height="877" extended-state="0" />
@@ -456,22 +456,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/managers/apiManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="53" lean-forward="false" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
+        <state relative-caret-position="517">
+          <caret line="50" column="96" lean-forward="false" selection-start-line="50" selection-start-column="96" selection-end-line="50" selection-end-column="96" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
             <element signature="e#125#195#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/managers/apiManager.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="91" lean-forward="false" selection-start-line="2" selection-start-column="91" selection-end-line="2" selection-end-column="91" />
-          <folding />
         </state>
       </provider>
     </entry>

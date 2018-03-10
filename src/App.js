@@ -48,7 +48,7 @@ class App extends Component {
 
                 <div className="content">
 
-                    <Tabs defaultActiveKey={2} id="uncontrolled-tab-example">
+                    <Tabs defaultActiveKey={2} id="uncontrolled-tab-example" unmountOnExit={true}>
                         <Tab eventKey={1} title="BS Table">
                             {table}
                         </Tab>
